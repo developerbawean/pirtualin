@@ -90,8 +90,7 @@
               <div class="row">
                 <div class="about-text padd-15">
                   <h3>I'm Muhammad Ashar and <span>Web Developer</span></h3>
-                  <p>Hi! My name is Muhammad Ashar. I am a Web Developer, and I'm very passionate and dedicated
-                    to my work. With 10 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration. </p>
+                  <p>Hai! Nama saya Muhammad Ashar. Saya seorang Pengembang Web, dan saya sangat bersemangat dan berdedikasi pada pekerjaan saya. saya telah memperoleh keterampilan dan pengetahuan yang diperlukan untuk membuat proyek Anda sukses. Saya menikmati setiap langkah proses perancangan, develop, mulai dari diskusi dan kolaborasi.</p>
                 </div>
               </div>
               <div class="row">
@@ -198,29 +197,27 @@
                         <!-- timeline Item -->
                         <div class="timeline-item">
                           <div class="circle-dot"></div>
-                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2013 - 2015</h6>
-                          <h4 class="timeline-title">Master In Computer Science</h4>
-                          <p class="timeline-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non
-                            nisi semper, et elementum lorem ornare.</p>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2015 - 2018</h6>
+                          <h4 class="timeline-title">SMK Muhammadiyah 4 Sangkapura</h4>
+                          <p class="timeline-text">Akuntansi</p>
                         </div>
                         <!-- timeline Item End -->
                         <!-- timeline Item -->
                         <div class="timeline-item">
                           <div class="circle-dot"></div>
-                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2011 - 2013</h6>
-                          <h4 class="timeline-title">Studied At Delhi University</h4>
-                          <p class="timeline-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non
-                            nisi semper, et elementum lorem ornare.</p>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2018 - 2022</h6>
+                          <h4 class="timeline-title">Universitas Billfath</h4>
+                          <p class="timeline-text">S1 Teknik Informatika</p>
                         </div>
                         <!-- timeline Item End -->
                         <!-- timeline Item -->
-                        <div class="timeline-item">
+                        <!-- <div class="timeline-item">
                           <div class="circle-dot"></div>
                           <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2008 - 2011</h6>
                           <h4 class="timeline-title">Bachelor Degree</h4>
                           <p class="timeline-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non
                             nisi semper, et elementum lorem ornare.</p>
-                        </div>
+                        </div> -->
                         <!-- timeline Item End -->
                       </div>
                     </div>
@@ -234,29 +231,51 @@
                         <!-- timeline Item -->
                         <div class="timeline-item">
                           <div class="circle-dot"></div>
-                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2013 - 2015</h6>
-                          <h4 class="timeline-title">Backend Developer</h4>
-                          <p class="timeline-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non
-                            nisi semper, et elementum lorem ornare.</p>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2017</h6>
+                          <h4 class="timeline-title">Magang di Bank Jatim Bawean</h4>
+                          <p class="timeline-text">
+                            <ul style="margin-left: 5%;">
+                              <li>Bagian Pencatatan Gaji Karyawan</li>
+                              <li>Bagian Kas Kecil</li>
+                              <li>Bagian Kredit</li>
+                            </ul>
+                          </p>
+                        </div>
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2020</h6>
+                          <h4 class="timeline-title">Magang di IPP Bawean</h4>
+                          <p class="timeline-text">
+                            <ul style="margin-left: 5%;">
+                              <li>Bagian Pengawasan Kapal</li>
+                              <li>Administrasi Input data hasil Nelayan</li>
+                              <li>Membuat Website IPP Bawean</li>
+                            </ul>
+                          </p>
+                        </div>
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2020 - 2022</h6>
+                          <h4 class="timeline-title">Travel Boyanesia</h4>
+                          <p class="timeline-text">Travel Boyanesia adalah perusahaan yang bergerak di bidang perjalanan wisata ke Pulau Bawean. Didirikan pada tahun 2020, Travel Boyanesia menawarkan berbagai pilihan paket wisata</p>
                         </div>
                         <!-- timeline Item End -->
                         <!-- timeline Item -->
                         <div class="timeline-item">
                           <div class="circle-dot"></div>
-                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2011 - 2013</h6>
-                          <h4 class="timeline-title">Frontend Developer</h4>
-                          <p class="timeline-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non
-                            nisi semper, et elementum lorem ornare.</p>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2023 - Sekarang</h6>
+                          <h4 class="timeline-title">Frontend dan Backend Developer</h4>
+                          <p class="timeline-text">Frontend dan Backend Developer di CV. Printsoft perusahaan yang fokus pada IT Developer untuk Print Provider. Baik Website, Software Desktop, Android dan iOS App.</p>
                         </div>
                         <!-- timeline Item End -->
                         <!-- timeline Item -->
-                        <div class="timeline-item">
+                        <!-- <div class="timeline-item">
                           <div class="circle-dot"></div>
                           <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2008 - 2011</h6>
                           <h4 class="timeline-title">Graphic Designer</h4>
                           <p class="timeline-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non
                             nisi semper, et elementum lorem ornare.</p>
-                        </div>
+                        </div> -->
                         <!-- timeline Item End -->
                       </div>
                     </div>
@@ -532,7 +551,7 @@
               <div class="icon">
                 <i class="fa fa-phone"></i>
                 <h4>Call Us On</h4>
-                <p>+91 8800 000 000</p>
+                <p>0813-4753-6559</p>
               </div>
             </div>
             <!-- contact-info-item end -->
@@ -541,7 +560,7 @@
               <div class="icon">
                 <i class="fa fa-map-marker"></i>
                 <h4>Office</h4>
-                <p>44 Street, New Delhi, India</p>
+                <p>Jl. Semolowaru No.122, RT.002/RW.02, Semolowaru, Kec. Sukolilo, Surabaya, Jawa Timur 60119</p>
               </div>
             </div>
             <!-- contact-info-item end -->
@@ -550,7 +569,7 @@
               <div class="icon">
                 <i class="fa fa-envelope"></i>
                 <h4>Email</h4>
-                <p>info@gmail.com</p>
+                <p>developerbawean@gmail.com</p>
               </div>
             </div>
             <!-- contact-info-item end -->
