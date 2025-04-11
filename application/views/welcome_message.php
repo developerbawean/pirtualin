@@ -2,12 +2,12 @@
 <html lang="pt-br">
 
 <head>
-  <title>Personal Portfolio Template</title>
+  <title>Pirtualin</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Template css Files -->
   <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css" type="text/css">
-
+  <link rel="icon" type="image/png" href="<?php echo base_url(); ?>assets/images/favicon.png">
   <!-- Live Style Switcher - Demo Only -->
   <link rel="stylesheet" class="alternate-style" title="pink" href="<?php echo base_url(); ?>assets/css/skins/pink.css" type="text/css">
   <link rel="stylesheet" class="alternate-style" title="blue" href="<?php echo base_url(); ?>assets/css/skins/blue.css" type="text/css" disabled>
@@ -98,25 +98,25 @@
                 <div class="personal-info padd-15">
                   <div class="row">
                     <div class="info-item padd-15">
-                      <p>Birthday : <span>5 June 1992</span></p>
+                      <p>Birthday : <span>23 June 1999</span></p>
                     </div>
                     <div class="info-item padd-15">
                       <p>Age : <span>28</span></p>
                     </div>
                     <div class="info-item padd-15">
-                      <p>Website : <span>www.domain.com</span></p>
+                      <p>Website : <span>www.pirtualin.my.id</span></p>
                     </div>
                     <div class="info-item padd-15">
-                      <p>Email : <span>info@gmail.com</span></p>
+                      <p>Email : <span>developerbawean@gmail.com</span></p>
                     </div>
                     <div class="info-item padd-15">
                       <p>Degree : <span>M.Tech</span></p>
                     </div>
                     <div class="info-item padd-15">
-                      <p>Phone : <span>+91 8800 000 000</span></p>
+                      <p>Phone : <span>081347536559</span></p>
                     </div>
                     <div class="info-item padd-15">
-                      <p>City : <span>Mumbai</span></p>
+                      <p>City : <span>Surabaya</span></p>
                     </div>
                     <div class="info-item padd-15">
                       <p>Freelance : <span>Available</span></p>
@@ -131,6 +131,15 @@
                 </div>
                 <div class="skills padd-15">
                   <div class="row">
+                    <div class="skill-item padd-15">
+                      <h5>PHP</h5>
+                      <div class="progress">
+                        <div class="progress-in" style="width: 86%;"></div>
+                        <div class="skill-porcent">
+                          86%
+                        </div>
+                      </div>
+                    </div>
                     <div class="skill-item padd-15">
                       <h5>Javascript</h5>
                       <div class="progress">
@@ -160,6 +169,15 @@
                     </div>
                     <div class="skill-item padd-15">
                       <h5>Bootstrap</h5>
+                      <div class="progress">
+                        <div class="progress-in" style="width: 60%;"></div>
+                        <div class="skill-porcent">
+                          60%
+                        </div>
+                      </div>
+                    </div>
+                    <div class="skill-item padd-15">
+                      <h5>Tailwindcss</h5>
                       <div class="progress">
                         <div class="progress-in" style="width: 60%;"></div>
                         <div class="skill-porcent">
