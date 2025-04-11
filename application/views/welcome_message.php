@@ -67,10 +67,10 @@
             <h1>Muhammad Ashar</h1>
             <span class="iTyped"></span>
             <div class="social-links">
-              <!-- <a href="#"><i class="fa fa-twitter"></i></a> -->
-              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="https://wa.me/081347536559?text=Halo%20admin,%20saya%20mau%20tanya..." target="_blank"><i class="fa fa-whatsapp"></i></a>
+              <a href="https://www.facebook.com/mohd.ashar.5817"><i class="fa fa-facebook"></i></a>
               <a href="https://www.instagram.com/tanpa_sayap_/?igsh=aHF1MWhrZXg1MnF2"><i class="fa fa-instagram"></i></a>
-              <a href="#"><i class="fa fa-linkedin"></i></a>
+              <a href="https://www.linkedin.com/in/muhammad-ashar-56673930a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="fa fa-linkedin"></i></a>
             </div>
           </div>
         </div>
